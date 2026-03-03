@@ -42,7 +42,7 @@ export default function ProfileScreen() {
     { icon: '🎫', label: 'Coupons & Offers', subtitle: 'Check available discounts' },
     { icon: '💬', label: 'Help & Support', subtitle: 'Get help with your bookings' },
     { icon: '📄', label: 'Terms & Conditions', subtitle: 'Read our terms of service' },
-    { icon: 'ℹ️', label: 'About UrbanServ', subtitle: 'Version 1.0.0' },
+    { icon: 'ℹ️', label: 'About Suchiti', subtitle: 'Version 1.0.0' },
   ];
 
   const initials = user?.name

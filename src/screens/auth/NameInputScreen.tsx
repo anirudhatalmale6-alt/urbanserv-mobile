@@ -96,7 +96,7 @@ export default function NameInputScreen({ navigation, route }: Props) {
             <Text style={styles.greetingText}>
               {role === 'PROVIDER'
                 ? 'Welcome aboard, professional!'
-                : 'Welcome to UrbanServ!'}
+                : 'Welcome to Suchiti!'}
             </Text>
           </View>
 

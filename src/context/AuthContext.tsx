@@ -33,8 +33,8 @@ interface AuthContextType extends AuthState {
 // ── Secure Store Keys ──────────────────────────────────
 
 const STORE_KEYS = {
-  USER: 'urbanserv_user',
-  TOKEN: 'urbanserv_token',
+  USER: 'suchiti_user',
+  TOKEN: 'suchiti_token',
 };
 
 // ── Context ────────────────────────────────────────────

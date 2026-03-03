@@ -50,7 +50,7 @@ export default function ProviderProfileScreen() {
     { icon: '📄', label: 'Documents', subtitle: 'ID proof, certifications' },
     { icon: '🏦', label: 'Bank Details', subtitle: 'Manage payout information' },
     { icon: '💬', label: 'Help & Support', subtitle: 'Get help with your account' },
-    { icon: 'ℹ️', label: 'About UrbanServ', subtitle: 'Version 1.0.0' },
+    { icon: 'ℹ️', label: 'About Suchiti', subtitle: 'Version 1.0.0' },
   ];
 
   const initials = user?.name

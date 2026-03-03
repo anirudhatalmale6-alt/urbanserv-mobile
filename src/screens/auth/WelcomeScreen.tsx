@@ -40,13 +40,13 @@ export default function WelcomeScreen({ navigation }: Props) {
           <View style={styles.logoCircle}>
             <Text style={styles.logoText}>U</Text>
           </View>
-          <Text style={styles.appName}>UrbanServ</Text>
+          <Text style={styles.appName}>Suchiti</Text>
           <Text style={styles.tagline}>Home services at your doorstep</Text>
         </View>
 
         {/* Role Selection */}
         <View style={styles.roleSection}>
-          <Text style={styles.sectionTitle}>How would you like to use UrbanServ?</Text>
+          <Text style={styles.sectionTitle}>How would you like to use Suchiti?</Text>
 
           <TouchableOpacity
             style={[
