@@ -1,7 +1,7 @@
 // Suchiti Theme Constants
 // Primary: #6C63FF (Purple), Secondary: #FF6584 (Coral), Accent: #00C9A7 (Teal)
 
-export const API_URL = 'http://localhost:3050';
+export const API_URL = 'https://suchiti.com';
 
 export const COLORS = {
   primary: '#6C63FF',
